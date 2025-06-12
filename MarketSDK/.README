@@ -1,0 +1,17 @@
+# MarketSDK
+
+MarketSDK is a Java/Kotlin library for interacting with the Market API. It provides convenient access to market data, posts, categories, and related operations for Android and Java applications.
+
+## Features
+
+- Retrieve and manage market posts
+- Access market and category information
+- Simple asynchronous API with callbacks
+- Designed for easy integration in Android projects
+
+## Installation
+
+Add the module to your project as a Gradle dependency:
+
+```gradle
+implementation project(':marketSDK')
