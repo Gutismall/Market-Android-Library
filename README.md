@@ -60,6 +60,6 @@ var market = MarketSDK.getInstance()
 ## 📚 Documentation
 
 👉 Full documentation, usage guides, and API reference available at:  
-[📖 View Docs](https://github.com/Gutismall/MarketSDK/tree/main/docs)
+[📖 View Docs](https://github.com/Gutismall/Market-Android-Library/tree/main/docs)
 
 ---
