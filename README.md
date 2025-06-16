@@ -25,7 +25,7 @@ allprojects {
 
 ```gradle
 dependencies {
-    implementation ("com.github.Gutismall:MarketSDK:v1.0.1")
+    implementation 'com.github.Gutismall:Market-Android-Library:v1.0.1'
 }
 ```
 
