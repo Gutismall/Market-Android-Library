@@ -17,7 +17,7 @@ public class MarketSDK {
     private final CategoryService categoryService;
 
     public MarketSDK(String appId) {
-        RetrofitClient retrofitClient = new RetrofitClient("http://spring-market-api-env.eba-wkfe6epf.eu-north-1.elasticbeanstalk.com/api/"+appId+"/");
+        RetrofitClient retrofitClient = new RetrofitClient("http://spring-market-api-env-1.eba-wkfe6epf.eu-north-1.elasticbeanstalk.com/api/"+appId+"/");
         MarketAPI api = retrofitClient.getMarketAPI();
 
         this.postService = new PostService(new PostRepository(api));
