@@ -63,3 +63,16 @@ var market = MarketSDK.getInstance()
 [📖 View Docs](https://github.com/Gutismall/Market-Android-Library/tree/main/docs)
 
 ---
+
+
+## 🧑‍💻 Author
+
+**Ari Guterman**  
+Student Software Engineer • Passionate about backend & cloud infrastructure  
+[GitHub](https://github.com/Gutismall)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
